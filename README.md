@@ -3,3 +3,4 @@ Jeu 2048
 ## Introduction
 MarieD
 L'école Centrale de Lyon
+## J'ai ajoute 
